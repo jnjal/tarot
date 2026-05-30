@@ -234,3 +234,9 @@ body {
   .reading-spread { padding: 24px 16px; gap: 16px; }
   .spread-card { width: 100px; height: 150px; }
 }
+.back-link {
+  font-family: 'IBM Plex Mono'; font-size: 12px;
+  color: var(--muted); text-decoration: none;
+  transition: color 0.2s; letter-spacing: 1px;
+}
+.back-link:hover { color: var(--accent); }
