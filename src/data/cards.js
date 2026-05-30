@@ -3,7 +3,7 @@
 // مثال: image: "/cards/fool.jpg"
 
 export const SUITS = {
-  major: "Major Arcana",
+  major: "آرکانای بزرگ",
   cups: "جام‌ها",
   wands: "عصاها",
   swords: "شمشیرها",
@@ -11,7 +11,7 @@ export const SUITS = {
 };
 
 export const cards = [
-  // ── Major Arcana (22 کارت) ──────────────────────────────────
+  // ── آرکانای بزرگ (22 کارت) ──────────────────────────────────
   { id: 0,  name: "The Fool",          nameFa: "دیوانه",          suit: "major", number: "0",   image: "/cards/major/fool.jpg",          meaning: "آغاز جدید، بی‌گناهی، ماجراجویی",          desc: "توضیحات کارت دیوانه رو اینجا بنویس." },
   { id: 1,  name: "The Magician",      nameFa: "جادوگر",          suit: "major", number: "I",   image: "/cards/major/magician.jpg",      meaning: "اراده، مهارت، خلاقیت",                    desc: "توضیحات کارت جادوگر رو اینجا بنویس." },
   { id: 2,  name: "High Priestess",    nameFa: "کاهنه بزرگ",      suit: "major", number: "II",  image: "/cards/major/high-priestess.jpg", meaning: "شهود، رمز، دانش پنهان",                  desc: "توضیحات کارت کاهنه بزرگ رو اینجا بنویس." },
