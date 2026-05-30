@@ -9,7 +9,7 @@ const SUIT_COLORS = {
 };
 
 const SUIT_LABELS = {
-  major: "Major Arcana",
+  major: "آرکانای بزرگ",
   cups: "جام‌ها",
   wands: "عصاها",
   swords: "شمشیرها",
