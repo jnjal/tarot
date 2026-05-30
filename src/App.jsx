@@ -45,6 +45,7 @@ export default function App() {
       <header className="header">
         <div className="header-inner">
           <div className="logo">✦ تاروت</div>
+            <a href="https://jnjal.github.io" className="back-link">← پورتفولیو</a>
           <div className="header-tabs">
             <button className={`tab ${mode === "browse" ? "active" : ""}`} onClick={() => { setMode("browse"); resetReading(); }}>
               دایره‌المعارف
