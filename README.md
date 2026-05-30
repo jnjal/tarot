@@ -1,15 +1,15 @@
 # 🔮 Tarot
 
-> دایره‌المعارف تاروت و فال ۳ کارتی
+> Encyclopedia of Tarot and 3-card fortune telling
 
 ## 🔗 Live
 [jnjal.github.io/tarot](https://jnjal.github.io/tarot/)
 
-## ✦ امکانات
-- دایره‌المعارف کامل ۷۸ کارت تاروت
-- فیلتر بر اساس دسته‌بندی (Major Arcana، جام‌ها، عصاها، شمشیرها، سکه‌ها)
-- فال ۳ کارتی با انیمیشن flip سه‌بعدی
-- مودال جزئیات هر کارت
+## ✦ Features
+- Complete 78-card tarot encyclopedia
+- Filter by category (Major Arcana, Cups, Wands, Swords, Coins)
+- 3-card spread with 3D flip animation
+- Card details modal
 
 ## 🛠 Tech Stack
 - React + Vite
