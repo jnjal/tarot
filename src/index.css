@@ -240,3 +240,16 @@ body {
   transition: color 0.2s; letter-spacing: 1px;
 }
 .back-link:hover { color: var(--accent); }
+.footer {
+  border-top: 1px solid var(--border);
+  margin-top: 80px;
+}
+.footer-inner {
+  max-width: 1400px; margin: 0 auto;
+  padding: 24px 48px;
+  display: flex; justify-content: space-between; align-items: center;
+  font-family: 'IBM Plex Mono'; font-size: 11px; color: var(--muted);
+}
+@media (max-width: 768px) {
+  .footer-inner { padding: 20px; flex-direction: column; gap: 12px; }
+}
