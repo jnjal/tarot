@@ -3,7 +3,7 @@
 > Encyclopedia of Tarot and 3-card fortune telling
 
 ## 🔗 Live
-[LINK](https://jnjal.github.io/tarot/)
+[jnjal.github.io/tarot](https://jnjal.github.io/tarot/)
 
 ## ✦ Features
 - Complete 78-card tarot encyclopedia
