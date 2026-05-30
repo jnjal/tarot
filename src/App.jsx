@@ -126,6 +126,13 @@ export default function App() {
       </main>
 
       {modal && <CardModal card={modal} onClose={() => setModal(null)} />}
+
+      <footer className="footer">
+        <div className="footer-inner">
+          <span>© 2026 — جنجال</span>
+          <a href="https://jnjal.github.io" className="back-link">jnjal.github.io ↗</a>
+        </div>
+      </footer>
     </div>
   );
 }
